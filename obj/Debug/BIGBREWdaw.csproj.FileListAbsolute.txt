@@ -1,0 +1,139 @@
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\bin\Debug\BIGBREWdaw.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.AddStaff.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.ADMINfrm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.AdminProduct.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.LogInfrm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderMenu.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.STAFFfrm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.StaffOrder.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.pdb
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe.config
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.exe
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.pdb
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\bin\Debug\BIGBREWdaw.pdb
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.csprojResolveAssemblyReference.cache
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.AddStaff.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.AdminDashfrm.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.ADMINfrm.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.AdminProduct.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.LogInfrm.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderMenu.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.Properties.Resources.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.STAFFfrm.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.StaffOrder.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.csproj.GenerateResource.Cache
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe.config
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.exe
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.pdb
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\bin\Debug\BIGBREWdaw.pdb
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.AddStaff.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.ADMINfrm.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.AdminProduct.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.LogInfrm.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderMenu.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.Properties.Resources.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.STAFFfrm.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.StaffOrder.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.csproj.GenerateResource.Cache
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.SALES_admin.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.SALES_staff.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWdaw-20241124T110029Z-001\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderItems.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw\BIGBREWdaw\obj\Debug\BIGBREWdaw.SALES_UI.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.pdb
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.AddStaff.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.ADMINfrm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.AdminProduct.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.LogInfrm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderItems.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderMenu.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.Properties.Resources.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.SALES_UI.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.STAFFfrm.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.StaffOrder.resources
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\obj\Debug\BIGBREWdaw.csproj.GenerateResource.Cache
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe
+C:\Users\Administrator\Documents\Visual Studio 2015\Projects\BIGBREWdaw 0.1\BIGBREWdaw\bin\Debug\BIGBREWdaw.pdb
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe.config
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.exe
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.pdb
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\bin\Debug\BIGBREWdaw.pdb
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.csprojResolveAssemblyReference.cache
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.AddStaff.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.ADMINfrm.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.AdminProduct.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.LogInfrm.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderItems.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderMenu.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.Properties.Resources.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.SALES_UI.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.STAFFfrm.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.StaffOrder.resources
+C:\Users\espin\OneDrive\Emm\BIGBREWdawTo\BIGBREWdaw 0.2\BIGBREWdaw\obj\Debug\BIGBREWdaw.csproj.GenerateResource.Cache
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe.config
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\bin\Debug\BIGBREWdaw.pdb
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.csproj.AssemblyReference.cache
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.AddStaff.resources
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.ADMINfrm.resources
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.AdminProduct.resources
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.Archive_Form.resources
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.LogInfrm.resources
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderItems.resources
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderMenu.resources
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.Properties.Resources.resources
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.SALES_UI.resources
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.STAFFfrm.resources
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.StaffOrder.resources
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.csproj.GenerateResource.cache
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.csproj.CoreCompileInputs.cache
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.exe
+C:\Users\adria\Downloads\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.pdb
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe.config
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.exe
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.pdb
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\bin\Debug\BIGBREWdaw.pdb
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.csprojResolveAssemblyReference.cache
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.AddStaff.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.ADMINfrm.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.AdminProduct.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.Archive_Form.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.LogInfrm.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderItems.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderMenu.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.Properties.Resources.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.SALES_UI.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.STAFFfrm.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.StaffOrder.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BigbrewNiAldreyITU\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.csproj.GenerateResource.Cache
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe.config
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.exe
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.pdb
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\bin\Debug\BIGBREWdaw.exe
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\bin\Debug\BIGBREWdaw.pdb
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.csprojResolveAssemblyReference.cache
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.AddStaff.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.ADMINfrm.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.AdminProduct.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.Archive_Form.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.LogInfrm.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderItems.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.OrderMenu.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.Properties.Resources.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.SALES_UI.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.STAFFfrm.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.StaffOrder.resources
+C:\Users\espin\Documents\Visual Studio 2015\Projects\BIGBREWNAMINTO\BigbrewNiAldrey\BIGBREWdaww\BIGBREWdaw\obj\Debug\BIGBREWdaw.csproj.GenerateResource.Cache
